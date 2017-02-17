@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1035. Password", "1035. Pas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1036. Boys vs Girls", "1036. Boys vs Girls\1036. Boys vs Girls.vcxproj", "{E5127455-73CF-401A-8EE2-A82DA1850DEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1037. Magic Coupon", "1037. Magic Coupon\1037. Magic Coupon.vcxproj", "{6E6E136F-A796-45E7-807C-BAEAB0AF167F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{E5127455-73CF-401A-8EE2-A82DA1850DEF}.Release|x64.Build.0 = Release|x64
 		{E5127455-73CF-401A-8EE2-A82DA1850DEF}.Release|x86.ActiveCfg = Release|Win32
 		{E5127455-73CF-401A-8EE2-A82DA1850DEF}.Release|x86.Build.0 = Release|Win32
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Debug|x64.ActiveCfg = Debug|x64
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Debug|x64.Build.0 = Debug|x64
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Debug|x86.Build.0 = Debug|Win32
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Release|x64.ActiveCfg = Release|x64
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Release|x64.Build.0 = Release|x64
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Release|x86.ActiveCfg = Release|Win32
+		{6E6E136F-A796-45E7-807C-BAEAB0AF167F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
