@@ -41,3 +41,5 @@ https://www.patest.cn/contests/pat-a-practise
 
 2.  由于题中的人名是 "a string of three capital letters chosen from A-Z"， 直接用一个26 * 26 * 26的数组计数即可。
 
+### 1039. Course List for Student ###
+注意用scanf输入和printf输出，否则由于数据量太大，用cin和cout导致最后一个case超时。
