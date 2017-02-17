@@ -3,6 +3,13 @@ PAT (Advanced Level) Practise solutions
 https://www.patest.cn/contests/pat-a-practise
 
 # note #
+### 1018. Public Bike Management ###
+
+首先Dijsktra算法遍历图得到起点到终点的最小距离。
+然后DFS 计算sent 和 take back自行车数量，在距离等于最小距离的情况下，选择sent最小的一个，如果sent相同，选择take back最小的一个。
+
+
+
 ### 1021. Deepest Root  ###
 一种方法是每一个vertice都DFS或BFS。然后选择deepest root的vertice。但是可能会超时。
 另一种方法是使用两次DFS。第一次任选一个vertice进行DFS，得到deepest root的点集s1, 然后从s1中任选一点，再进行一次DFS，得到deepest root的点集s2，s1 U s2就是所求的点集。这种方法是从树的性质得到：
@@ -18,14 +25,19 @@ https://www.patest.cn/contests/pat-a-practise
 
 1. 在当前站的已有的gas可及距离内，找到比当前站最便宜的那一站作为下一站；
 2. 如果找不到符合条件1）的站点，那么
+
      2.1 在当前站的最大gas可及距离内，找到比当前站便宜的第一站作为下一站，然后在本站加油至正好到下一站；
+
      2.2 如果找不到符合条件2.1的站点，那么加满油，找到之后可及站点中最便宜的那一站作为下一站。
 
 
 ### 1034. Head of a Gang  ###
 求 图中满足Weight > Threshold 的独立集数目以及独立集中Weight最大的顶点。
 用set模拟独立集。每读取一条边，对两个顶点按在已知独立集中的位置分类讨论即可。
+
 **注意事项：**
+
 1.  满足题意的一个独立集包含顶点最小数目是3
+
 2.  由于题中的人名是 "a string of three capital letters chosen from A-Z"， 直接用一个26 * 26 * 26的数组计数即可。
 
