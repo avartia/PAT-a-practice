@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6C09E102-0F0C-4333-8333-DF9822BFC8D9}</ProjectGuid>
-    <RootNamespace>PATAPRACTICE</RootNamespace>
+    <ProjectGuid>{ED0F59B9-A500-497B-AA07-8431765AAFCD}</ProjectGuid>
+    <RootNamespace>My1021DeepestRoot</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -109,6 +109,13 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="1021. Deepest Root.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input1.txt" />
+    <Text Include="input2.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

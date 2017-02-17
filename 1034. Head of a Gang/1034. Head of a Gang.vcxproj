@@ -18,9 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1034. Head of a Gang .cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input1.txt" />
+    <Text Include="input2.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6C09E102-0F0C-4333-8333-DF9822BFC8D9}</ProjectGuid>
-    <RootNamespace>PATAPRACTICE</RootNamespace>
+    <ProjectGuid>{0894316B-0439-44FB-8024-6F82DE3C69D9}</ProjectGuid>
+    <RootNamespace>My1034HeadofaGang</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
