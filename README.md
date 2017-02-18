@@ -43,3 +43,6 @@ https://www.patest.cn/contests/pat-a-practise
 
 ### 1039. Course List for Student ###
 注意用scanf输入和printf输出，否则由于数据量太大，用cin和cout导致最后一个case超时。
+
+### 1044. Shopping in Mars ###
+一次遍历即可。类似于求MaxSequenceSum的解法。注意，同1039类似，此题也要用scanf和printf处理io。
