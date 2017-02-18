@@ -46,3 +46,8 @@ https://www.patest.cn/contests/pat-a-practise
 
 ### 1044. Shopping in Mars ###
 一次遍历即可。类似于求MaxSequenceSum的解法。注意，同1039类似，此题也要用scanf和printf处理io。
+
+### 1045. Favorite Color Stripe ###
+动态规划问题。等价于可重复的LCS问题。递归公式如下：
+**d[i][j] = d[i][j-1] + 1, if s1[i]==s2[j];
+     = max(d[i][j-1], d[i-1][j]}, else;**

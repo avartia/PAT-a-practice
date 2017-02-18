@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1043. Is It a Binary Search
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1044. Shopping in Mars", "1044. Shopping in Mars\1044. Shopping in Mars.vcxproj", "{4C10FCB1-8C94-40F0-AF5D-F6586A1BA3C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1045. Favorite Color Stripe", "1045. Favorite Color Stripe\1045. Favorite Color Stripe.vcxproj", "{9251CD65-9443-439C-9A38-47393BD927B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{4C10FCB1-8C94-40F0-AF5D-F6586A1BA3C9}.Release|x64.Build.0 = Release|x64
 		{4C10FCB1-8C94-40F0-AF5D-F6586A1BA3C9}.Release|x86.ActiveCfg = Release|Win32
 		{4C10FCB1-8C94-40F0-AF5D-F6586A1BA3C9}.Release|x86.Build.0 = Release|Win32
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Debug|x64.ActiveCfg = Debug|x64
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Debug|x64.Build.0 = Debug|x64
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Debug|x86.Build.0 = Debug|Win32
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Release|x64.ActiveCfg = Release|x64
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Release|x64.Build.0 = Release|x64
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Release|x86.ActiveCfg = Release|Win32
+		{9251CD65-9443-439C-9A38-47393BD927B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
