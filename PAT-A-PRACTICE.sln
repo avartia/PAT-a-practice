@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1051. Pop Sequence", "1051.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1053. Path of Equal Weight", "1053. Path of Equal Weight\1053. Path of Equal Weight.vcxproj", "{12BF8E19-767B-4DD9-8D08-48B8AEC70420}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1054. The Dominant Color", "1054. The Dominant Color\1054. The Dominant Color.vcxproj", "{72477D59-9018-442A-8A47-B534F13C10A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{12BF8E19-767B-4DD9-8D08-48B8AEC70420}.Release|x64.Build.0 = Release|x64
 		{12BF8E19-767B-4DD9-8D08-48B8AEC70420}.Release|x86.ActiveCfg = Release|Win32
 		{12BF8E19-767B-4DD9-8D08-48B8AEC70420}.Release|x86.Build.0 = Release|Win32
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Debug|x64.ActiveCfg = Debug|x64
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Debug|x64.Build.0 = Debug|x64
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Debug|x86.Build.0 = Debug|Win32
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Release|x64.ActiveCfg = Release|x64
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Release|x64.Build.0 = Release|x64
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Release|x86.ActiveCfg = Release|Win32
+		{72477D59-9018-442A-8A47-B534F13C10A6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
