@@ -15,6 +15,9 @@ https://www.patest.cn/contests/pat-a-practise
 另一种方法是使用两次DFS。第一次任选一个vertice进行DFS，得到deepest root的点集s1, 然后从s1中任选一点，再进行一次DFS，得到deepest root的点集s2，s1 U s2就是所求的点集。这种方法是从树的性质得到：
 对于每一条最长的路径S->D，那么 S或D 也是其它顶点的deepest root。可用反证法证明。
 
+### 1022. Digital Library ###
+倒查表。 注意ID可能以0开头，所以用string类型比较好。
+
 ###  1026. Table Tennis ###
 排队模拟。
 对于队首的player，对其到达的时间而论：
@@ -51,3 +54,6 @@ https://www.patest.cn/contests/pat-a-practise
 动态规划问题。等价于可重复的LCS问题。递归公式如下：
 **d[i][j] = d[i][j-1] + 1, if s1[i]==s2[j];
      = max(d[i][j-1], d[i-1][j]}, else;**
+
+### 1055. The World's Richest ###
+暴力法会导致一个测试点超时。本题的关键是在于  M (<= 100) - the maximum number of outputs 。因此对于Age = i 的人， 可以只考虑排序后的前100个。这样一个剪枝过程后，可以通过所有测试点。
