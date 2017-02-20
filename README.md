@@ -61,3 +61,9 @@ https://www.patest.cn/contests/pat-a-practise
 ### 1057. Stack ###
 采用两个multiset存储以median值分割的两部分，每一次push就调整这两个multset和median值。由于multiset内部采用Balanced Tree的结构实现，因此push和pop的时间均只需要log(N).
 注意multiset的erase函数对于iterator和value操作的不同。
+
+### 1060. Are They Equal  ###
+去有效数字和指数即可。但是需要考虑的测试点较多，如果考虑不完全，可能会有1~2个case not pass。
+对于最后一个测试点，考虑  
+	**2 0.00 0** 
+的的情况。
