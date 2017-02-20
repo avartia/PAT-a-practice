@@ -57,3 +57,7 @@ https://www.patest.cn/contests/pat-a-practise
 
 ### 1055. The World's Richest ###
 暴力法会导致一个测试点超时。本题的关键是在于  M (<= 100) - the maximum number of outputs 。因此对于Age = i 的人， 可以只考虑排序后的前100个。这样一个剪枝过程后，可以通过所有测试点。
+
+### 1057. Stack ###
+采用两个multiset存储以median值分割的两部分，每一次push就调整这两个multset和median值。由于multiset内部采用Balanced Tree的结构实现，因此push和pop的时间均只需要log(N).
+注意multiset的erase函数对于iterator和value操作的不同。
