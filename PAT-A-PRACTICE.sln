@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1059. Prime Factors", "1059
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1060. Are They Equal", "1060. Are They Equal\1060. Are They Equal.vcxproj", "{D0481EFA-B203-44DC-9268-1FD357E05C29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1061. Dating", "1061. Dating\1061. Dating.vcxproj", "{82EDCD11-9634-4746-818E-C5EFF847181A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{D0481EFA-B203-44DC-9268-1FD357E05C29}.Release|x64.Build.0 = Release|x64
 		{D0481EFA-B203-44DC-9268-1FD357E05C29}.Release|x86.ActiveCfg = Release|Win32
 		{D0481EFA-B203-44DC-9268-1FD357E05C29}.Release|x86.Build.0 = Release|Win32
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Debug|x64.ActiveCfg = Debug|x64
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Debug|x64.Build.0 = Debug|x64
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Debug|x86.ActiveCfg = Debug|Win32
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Debug|x86.Build.0 = Debug|Win32
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Release|x64.ActiveCfg = Release|x64
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Release|x64.Build.0 = Release|x64
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Release|x86.ActiveCfg = Release|Win32
+		{82EDCD11-9634-4746-818E-C5EFF847181A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
