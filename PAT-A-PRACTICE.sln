@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1062. Talent and Virtue", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1063. Set Similarity", "1063. Set Similarity\1063. Set Similarity.vcxproj", "{C95EBE9A-1F0D-4362-BF34-E4CB814CE08F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1064. Complete Binary Search Tree", "1064. Complete Binary Search Tree\1064. Complete Binary Search Tree.vcxproj", "{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{C95EBE9A-1F0D-4362-BF34-E4CB814CE08F}.Release|x64.Build.0 = Release|x64
 		{C95EBE9A-1F0D-4362-BF34-E4CB814CE08F}.Release|x86.ActiveCfg = Release|Win32
 		{C95EBE9A-1F0D-4362-BF34-E4CB814CE08F}.Release|x86.Build.0 = Release|Win32
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Debug|x64.ActiveCfg = Debug|x64
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Debug|x64.Build.0 = Debug|x64
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Debug|x86.Build.0 = Debug|Win32
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Release|x64.ActiveCfg = Release|x64
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Release|x64.Build.0 = Release|x64
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Release|x86.ActiveCfg = Release|Win32
+		{E20E0A89-B40A-45B5-B7D6-6AC868C0F4FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
