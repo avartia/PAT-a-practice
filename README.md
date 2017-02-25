@@ -70,3 +70,7 @@ https://www.patest.cn/contests/pat-a-practise
 
 ### 1067. Sort with Swap(0,*) (25)  ###
 求图中circle的数目（两个及以上的顶点的闭环为一个circle）。每一个circle的存在会导致多一次swap。如果一个数i本来就在位置i上，那么这个数不需要swap。所以总共需要的swap数目为N - 2 - 2*num_of_single_point + num_of_circles。
+
+### 1074. Reversing Linked List (25) ###
+很坑的一道题目，尤其要注意多个链表存在的情况，第一次遍历确定起点所在的链表包含节点个数。否则最后一个case可能过不了。
+
