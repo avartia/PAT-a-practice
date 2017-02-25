@@ -67,3 +67,6 @@ https://www.patest.cn/contests/pat-a-practise
 对于最后一个测试点，考虑  
 	**2 0.00 0** 
 的的情况。
+
+### 1067. Sort with Swap(0,*) (25)  ###
+求图中circle的数目（两个及以上的顶点的闭环为一个circle）。每一个circle的存在会导致多一次swap。如果一个数i本来就在位置i上，那么这个数不需要swap。所以总共需要的swap数目为N - 2 - 2*num_of_single_point + num_of_circles。
