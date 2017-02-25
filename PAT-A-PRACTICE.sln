@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1071. Speech Patterns (25)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1072. Gas Station (30)", "1072. Gas Station (30)\1072. Gas Station (30).vcxproj", "{97CABA0C-469B-4F65-913F-191FBD7B6973}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1073. Scientific Notation (20)", "1073. Scientific Notation (20)\1073. Scientific Notation (20).vcxproj", "{76DD8828-0C45-489E-A544-D5788845932F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -431,6 +433,14 @@ Global
 		{97CABA0C-469B-4F65-913F-191FBD7B6973}.Release|x64.Build.0 = Release|x64
 		{97CABA0C-469B-4F65-913F-191FBD7B6973}.Release|x86.ActiveCfg = Release|Win32
 		{97CABA0C-469B-4F65-913F-191FBD7B6973}.Release|x86.Build.0 = Release|Win32
+		{76DD8828-0C45-489E-A544-D5788845932F}.Debug|x64.ActiveCfg = Debug|x64
+		{76DD8828-0C45-489E-A544-D5788845932F}.Debug|x64.Build.0 = Debug|x64
+		{76DD8828-0C45-489E-A544-D5788845932F}.Debug|x86.ActiveCfg = Debug|Win32
+		{76DD8828-0C45-489E-A544-D5788845932F}.Debug|x86.Build.0 = Debug|Win32
+		{76DD8828-0C45-489E-A544-D5788845932F}.Release|x64.ActiveCfg = Release|x64
+		{76DD8828-0C45-489E-A544-D5788845932F}.Release|x64.Build.0 = Release|x64
+		{76DD8828-0C45-489E-A544-D5788845932F}.Release|x86.ActiveCfg = Release|Win32
+		{76DD8828-0C45-489E-A544-D5788845932F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
