@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1078. Hashing (25)", "1078.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1079. Total Sales of Supply Chain (25)", "1079. Total Sales of Supply Chain (25)\1079. Total Sales of Supply Chain (25).vcxproj", "{80726ADE-94DF-49CC-80BB-A3DFA959C731}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1080. Graduate Admission (30)", "1080. Graduate Admission (30)\1080. Graduate Admission (30).vcxproj", "{5801E122-5FC6-442C-B13A-BDF1CA40C913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{80726ADE-94DF-49CC-80BB-A3DFA959C731}.Release|x64.Build.0 = Release|x64
 		{80726ADE-94DF-49CC-80BB-A3DFA959C731}.Release|x86.ActiveCfg = Release|Win32
 		{80726ADE-94DF-49CC-80BB-A3DFA959C731}.Release|x86.Build.0 = Release|Win32
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Debug|x64.ActiveCfg = Debug|x64
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Debug|x64.Build.0 = Debug|x64
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Debug|x86.ActiveCfg = Debug|Win32
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Debug|x86.Build.0 = Debug|Win32
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Release|x64.ActiveCfg = Release|x64
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Release|x64.Build.0 = Release|x64
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Release|x86.ActiveCfg = Release|Win32
+		{5801E122-5FC6-442C-B13A-BDF1CA40C913}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -74,3 +74,5 @@ https://www.patest.cn/contests/pat-a-practise
 ### 1074. Reversing Linked List (25) ###
 很坑的一道题目，尤其要注意多个链表存在的情况，第一次遍历确定起点所在的链表包含节点个数。否则最后一个case可能过不了。
 
+### 1080. Graduate Admission (30) ###
+极其容易超时或者段错误。慎用stl的容器并且尽量简化排序的过程。
