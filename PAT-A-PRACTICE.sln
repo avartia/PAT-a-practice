@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1085. Perfect Sequence (25)
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1086. Tree Traversals Again (25)", "1086. Tree Traversals Again (25)\1086. Tree Traversals Again (25).vcxproj", "{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1087. All Roads Lead to Rome (30)", "1087. All Roads Lead to Rome (30)\1087. All Roads Lead to Rome (30).vcxproj", "{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -571,6 +573,14 @@ Global
 		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x64.Build.0 = Release|x64
 		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x86.ActiveCfg = Release|Win32
 		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x86.Build.0 = Release|Win32
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Debug|x64.ActiveCfg = Debug|x64
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Debug|x64.Build.0 = Debug|x64
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Debug|x86.Build.0 = Debug|Win32
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Release|x64.ActiveCfg = Release|x64
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Release|x64.Build.0 = Release|x64
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Release|x86.ActiveCfg = Release|Win32
+		{6F9020C1-74E3-4C65-ADB7-3A5A9E187D1A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
