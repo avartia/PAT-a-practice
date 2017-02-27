@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1084. Broken Keyboard (20)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1085. Perfect Sequence (25)", "1085. Perfect Sequence (25)\1085. Perfect Sequence (25).vcxproj", "{355051A5-6E7B-4D9C-B9DD-9A5FFDBE011E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1086. Tree Traversals Again (25)", "1086. Tree Traversals Again (25)\1086. Tree Traversals Again (25).vcxproj", "{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{355051A5-6E7B-4D9C-B9DD-9A5FFDBE011E}.Release|x64.Build.0 = Release|x64
 		{355051A5-6E7B-4D9C-B9DD-9A5FFDBE011E}.Release|x86.ActiveCfg = Release|Win32
 		{355051A5-6E7B-4D9C-B9DD-9A5FFDBE011E}.Release|x86.Build.0 = Release|Win32
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Debug|x64.ActiveCfg = Debug|x64
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Debug|x64.Build.0 = Debug|x64
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Debug|x86.Build.0 = Debug|Win32
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x64.ActiveCfg = Release|x64
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x64.Build.0 = Release|x64
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x86.ActiveCfg = Release|Win32
+		{969C6F9F-AE6D-45A6-A013-2BCB27435F2E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
