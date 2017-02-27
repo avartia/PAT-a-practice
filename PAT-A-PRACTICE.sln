@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1087. All Roads Lead to Rom
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1088. Rational Arithmetic (20)", "1088. Rational Arithmetic (20)\1088. Rational Arithmetic (20).vcxproj", "{D23D52C5-F4D1-4883-A355-B083E26E3018}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1089. Insert or Merge (25)", "1089. Insert or Merge (25)\1089. Insert or Merge (25).vcxproj", "{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -591,6 +593,14 @@ Global
 		{D23D52C5-F4D1-4883-A355-B083E26E3018}.Release|x64.Build.0 = Release|x64
 		{D23D52C5-F4D1-4883-A355-B083E26E3018}.Release|x86.ActiveCfg = Release|Win32
 		{D23D52C5-F4D1-4883-A355-B083E26E3018}.Release|x86.Build.0 = Release|Win32
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Debug|x64.ActiveCfg = Debug|x64
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Debug|x64.Build.0 = Debug|x64
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Debug|x86.Build.0 = Debug|Win32
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Release|x64.ActiveCfg = Release|x64
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Release|x64.Build.0 = Release|x64
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Release|x86.ActiveCfg = Release|Win32
+		{64DE1E8D-7F17-48E0-BE12-A783D61CDC4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
