@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1089. Insert or Merge (25)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1090. Highest Price in Supply Chain (25)", "1090. Highest Price in Supply Chain (25)\1090. Highest Price in Supply Chain (25).vcxproj", "{39783FF2-BD32-4C23-9090-4785B31CE677}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1091. Acute Stroke (30)", "1091. Acute Stroke (30)\1091. Acute Stroke (30).vcxproj", "{62E157AE-0048-4D16-8939-96ACD1AE8811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{39783FF2-BD32-4C23-9090-4785B31CE677}.Release|x64.Build.0 = Release|x64
 		{39783FF2-BD32-4C23-9090-4785B31CE677}.Release|x86.ActiveCfg = Release|Win32
 		{39783FF2-BD32-4C23-9090-4785B31CE677}.Release|x86.Build.0 = Release|Win32
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Debug|x64.ActiveCfg = Debug|x64
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Debug|x64.Build.0 = Debug|x64
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Debug|x86.ActiveCfg = Debug|Win32
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Debug|x86.Build.0 = Debug|Win32
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Release|x64.ActiveCfg = Release|x64
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Release|x64.Build.0 = Release|x64
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Release|x86.ActiveCfg = Release|Win32
+		{62E157AE-0048-4D16-8939-96ACD1AE8811}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
