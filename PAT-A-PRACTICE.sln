@@ -129,6 +129,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1092. To Buy or Not to Buy 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1093. Count PAT's (25)", "1093. Count PAT's (25)\1093. Count PAT's (25).vcxproj", "{2342F862-407D-45BE-A3C3-B7ED663A7732}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1094. The Largest Generation (25)", "1094. The Largest Generation (25)\1094. The Largest Generation (25).vcxproj", "{54F58DA5-6565-478E-84B5-108D234A7EB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -641,6 +643,14 @@ Global
 		{2342F862-407D-45BE-A3C3-B7ED663A7732}.Release|x64.Build.0 = Release|x64
 		{2342F862-407D-45BE-A3C3-B7ED663A7732}.Release|x86.ActiveCfg = Release|Win32
 		{2342F862-407D-45BE-A3C3-B7ED663A7732}.Release|x86.Build.0 = Release|Win32
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Debug|x64.ActiveCfg = Debug|x64
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Debug|x64.Build.0 = Debug|x64
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Debug|x86.Build.0 = Debug|Win32
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Release|x64.ActiveCfg = Release|x64
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Release|x64.Build.0 = Release|x64
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Release|x86.ActiveCfg = Release|Win32
+		{54F58DA5-6565-478E-84B5-108D234A7EB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
