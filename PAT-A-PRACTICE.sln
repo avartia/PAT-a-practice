@@ -139,6 +139,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1097. Deduplication on a Li
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1098. Insertion or Heap Sort (25)", "1098. Insertion or Heap Sort (25)\1098. Insertion or Heap Sort (25).vcxproj", "{86E197CE-95DC-4999-B0E9-6182AA77171B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1099. Build A Binary Search Tree (30)", "1099. Build A Binary Search Tree (30)\1099. Build A Binary Search Tree (30).vcxproj", "{1E4380CA-0660-4891-8215-FDFA73CF07F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -691,6 +693,14 @@ Global
 		{86E197CE-95DC-4999-B0E9-6182AA77171B}.Release|x64.Build.0 = Release|x64
 		{86E197CE-95DC-4999-B0E9-6182AA77171B}.Release|x86.ActiveCfg = Release|Win32
 		{86E197CE-95DC-4999-B0E9-6182AA77171B}.Release|x86.Build.0 = Release|Win32
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Debug|x64.ActiveCfg = Debug|x64
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Debug|x64.Build.0 = Debug|x64
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Debug|x86.Build.0 = Debug|Win32
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Release|x64.ActiveCfg = Release|x64
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Release|x64.Build.0 = Release|x64
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Release|x86.ActiveCfg = Release|Win32
+		{1E4380CA-0660-4891-8215-FDFA73CF07F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
