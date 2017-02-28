@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1095. Cars on Campus (30)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1096. Consecutive Factors (20)", "1096. Consecutive Factors (20)\1096. Consecutive Factors (20).vcxproj", "{F774909C-5198-4CEA-9A0A-AFFAF0E3A2A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1097. Deduplication on a Linked List (25)", "1097. Deduplication on a Linked List (25)\1097. Deduplication on a Linked List (25).vcxproj", "{8709F577-E849-4EC0-B599-6D9F8FA87152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -671,6 +673,14 @@ Global
 		{F774909C-5198-4CEA-9A0A-AFFAF0E3A2A1}.Release|x64.Build.0 = Release|x64
 		{F774909C-5198-4CEA-9A0A-AFFAF0E3A2A1}.Release|x86.ActiveCfg = Release|Win32
 		{F774909C-5198-4CEA-9A0A-AFFAF0E3A2A1}.Release|x86.Build.0 = Release|Win32
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Debug|x64.ActiveCfg = Debug|x64
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Debug|x64.Build.0 = Debug|x64
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Debug|x86.ActiveCfg = Debug|Win32
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Debug|x86.Build.0 = Debug|Win32
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Release|x64.ActiveCfg = Release|x64
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Release|x64.Build.0 = Release|x64
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Release|x86.ActiveCfg = Release|Win32
+		{8709F577-E849-4EC0-B599-6D9F8FA87152}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
